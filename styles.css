@@ -4,7 +4,8 @@
     --bg-dark: #373337;
     --text-light: #e0e0e0;
 }
-
+.papu{
+    font-size:170px;
 * {
     margin: 0;
     padding: 0;
