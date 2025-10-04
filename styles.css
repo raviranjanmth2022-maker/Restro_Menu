@@ -1,11 +1,10 @@
 :root {
-    --neon-color-blue: rgb(37, 37, 210);
+    --neon-color-blue: rgb(14, 154, 31);
     --neon-color-pink: #f0f;
-    --bg-dark: #373337;
+    --bg-dark: #6d7167;
     --text-light: #e0e0e0;
 }
-.papu{
-    font-size:170px;
+
 * {
     margin: 0;
     padding: 0;
@@ -354,4 +353,7 @@ a:hover {
         width: 200px;
         height: 200px;
     }
+}
+.papu{
+    font-size: 150px;
 }
